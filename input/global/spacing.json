@@ -1,0 +1,90 @@
+{
+	"spacing": {
+		"none": {
+			"value": "0",
+			"type": "spacing"
+		},
+
+		"base": {
+			"value": "2",
+			"type": "spacing"
+		},
+
+		"scale": {
+			"value": "2",
+			"type": "spacing"
+		},
+
+		"x025": {
+			"value": "$spacing.base / $spacing.scale",
+			"type": "spacing",
+			"description": "2/2 = 1"
+		},
+
+		"x05": {
+			"value": "$spacing.x025 + $spacing.scale",
+			"type": "spacing",
+			"description": "1+2 = 3"
+		},
+
+		"x1": {
+			"value": "$spacing.base",
+			"type": "spacing",
+			"description": "2"
+		},
+
+		"x2": {
+			"value": "$spacing.x1 * $spacing.scale",
+			"type": "spacing",
+			"description": "2*2 = 4"
+		},
+
+		"x3": {
+			"value": "$spacing.x05 * $spacing.scale",
+			"type": "spacing",
+			"description": "3*2 = 6"
+		},
+
+		"x4": {
+			"value": "$spacing.x2 * $spacing.scale",
+			"type": "spacing",
+			"description": "4*2 = 8"
+		},
+
+		"x5": {
+			"value": "$spacing.x3 * $spacing.scale",
+			"type": "spacing",
+			"description": "6*2 = 12"
+		},
+
+		"x6": {
+			"value": "$spacing.x4 * $spacing.scale",
+			"type": "spacing",
+			"description": "8*2 = 16"
+		},
+
+		"x7": {
+			"value": "$spacing.x5 * $spacing.scale",
+			"type": "spacing",
+			"description": "12*2 = 24"
+		},
+
+		"x8": {
+			"value": "$spacing.x6 * $spacing.scale",
+			"type": "spacing",
+			"description": "16*2 = 32"
+		},
+
+		"x9": {
+			"value": "$spacing.x7 * $spacing.scale",
+			"type": "spacing",
+			"description": "24*2 = 48"
+		},
+
+		"x10": {
+			"value": "$spacing.x8 * $spacing.scale",
+			"type": "spacing",
+			"description": "32*2 = 64"
+		}
+	}
+}

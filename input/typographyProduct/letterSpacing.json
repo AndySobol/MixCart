@@ -1,0 +1,18 @@
+{
+	"letterSpacing": {
+		"lessBody": {
+			"value": "4%",
+			"type": "letterSpacing"
+		},
+
+		"body": {
+			"value": "0%",
+			"type": "letterSpacing"
+		},
+
+		"moreBody": {
+			"value": "-4%",
+			"type": "letterSpacing"
+		}
+	}
+}

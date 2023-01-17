@@ -1,0 +1,151 @@
+@import "palette.scss";
+@import "color.scss";
+
+//neutrals
+
+.btn-neutrals {
+	background-color: $neutrals10;
+	border-radius: 6px;
+	border-style: none;
+	color: $neutrals100;
+	display: inline-block;
+	height: 44px;
+	margin: 0;
+	padding: 12px 16px;
+	position: relative;
+	text-align: center;
+	cursor: pointer;
+}
+
+.btn-neutrals:hover {
+	background-color: lighten($neutrals10, 8%);
+}
+
+.btn-neutrals:active {
+	background-color: lighten($neutrals10, 12%);
+}
+
+//success
+
+.btn-success {
+	background-color: $success50;
+	border-radius: 6px;
+	border-style: none;
+	color: $neutrals100;
+	display: inline-block;
+	height: 44px;
+	margin: 0;
+	padding: 12px 16px;
+	position: relative;
+	text-align: center;
+	cursor: pointer;
+	transition: clolor 0.2ms;
+}
+
+.btn-success:hover {
+	background-color: darken($success50, 4%);
+}
+
+.btn-success:active {
+	background-color: darken($success50, 8%);
+}
+
+//warning
+
+.btn-warning {
+	background-color: $warning50;
+	border-radius: 6px;
+	border-style: none;
+	color: $neutrals100;
+	display: inline-block;
+	height: 44px;
+	margin: 0;
+	padding: 12px 16px;
+	position: relative;
+	text-align: center;
+	cursor: pointer;
+	transition: clolor 0.2ms;
+}
+
+.btn-warning:hover {
+	background-color: darken($warning50, 4%);
+}
+
+.btn-warning:active {
+	background-color: darken($warning50, 8%);
+}
+
+//danger
+
+.btn-danger {
+	background-color: $danger50;
+	border-radius: 6px;
+	border-style: none;
+	color: $neutrals100;
+	display: inline-block;
+	height: 44px;
+	margin: 0;
+	padding: 12px 16px;
+	position: relative;
+	text-align: center;
+	cursor: pointer;
+	transition: clolor 0.2ms;
+}
+
+.btn-danger:hover {
+	background-color: darken($danger50, 4%);
+}
+
+.btn-danger:active {
+	background-color: darken($danger50, 8%);
+}
+
+//accent
+
+.btn-accent {
+	background-color: $accent50;
+	border-radius: 6px;
+	border-style: none;
+	color: $neutrals100;
+	display: inline-block;
+	height: 44px;
+	margin: 0;
+	padding: 12px 16px;
+	position: relative;
+	text-align: center;
+	cursor: pointer;
+	transition: clolor 0.2ms;
+}
+
+.btn-accent:hover {
+	background-color: darken($accent50, 4%);
+}
+
+.btn-accent:active {
+	background-color: darken($accent50, 8%);
+}
+
+//brand
+
+.btn-brand {
+	background-color: $brand50;
+	border-radius: 6px;
+	border-style: none;
+	color: $neutrals10;
+	display: inline-block;
+	height: 44px;
+	margin: 0;
+	padding: 12px 16px;
+	position: relative;
+	text-align: center;
+	cursor: pointer;
+	transition: clolor 0.2ms;
+}
+
+.btn-brand:hover {
+	background-color: darken($brand50, 4%);
+}
+
+.btn-brand:active {
+	background-color: darken($brand50, 8%);
+}

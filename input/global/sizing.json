@@ -1,0 +1,34 @@
+{
+	"sizing":{
+		"icon":{
+			"core":{
+				"xs":{
+					"value":"8px",
+					"type":"sizing"
+				},
+				"sm":{
+					"value":"12px",
+					"type":"sizing"
+				},
+				"md":{
+					"value":"16px",
+					"type":"sizing"
+				},
+				"lg":{
+					"value":"20px",
+					"type":"sizing"
+				},
+				"xl":{
+					"value":"24px",
+					"type":"sizing"
+				},
+				"xll":{
+					"value":"32px",
+					"type":"sizing"
+				}
+			},
+			"actioicon":"$sizing.icon.core.md",
+			"button-icon":"$sizing.icon.core.md"
+		}
+	}
+}

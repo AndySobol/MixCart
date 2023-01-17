@@ -1,0 +1,21 @@
+{
+	"fontWeights": {
+		"regular": {
+			"value": "Regular",
+			"type": "fontWeights",
+			"description": "400"
+		},
+
+		"semibold": {
+			"value": "Medium",
+			"type": "fontWeights",
+			"description": "500"
+		},
+
+		"bold": {
+			"value": "SemiBold",
+			"type": "fontWeights",
+			"description": "600"
+		}
+	}
+}

@@ -1,0 +1,104 @@
+{
+	"core":{
+		"x1":{
+			"value":"2",
+			"type":"other"
+		},
+		"x2":{
+			"value":"$core.x1 + floor(0/4+1)*2",
+			"type":"other"
+		},
+		"x3":{
+			"value":"$core.x2 + floor(1/4+1)*2",
+			"type":"other"
+		},
+		"x4":{
+			"value":"$core.x3 + floor(2/4+1)*2",
+			"type":"other"
+		},
+		"x5":{
+			"value":"$core.x4 + floor(3/4+1)*2",
+			"type":"other"
+		},
+		"x6":{
+			"value":"$core.x5 + floor(4/4+1)*2",
+			"type":"other"
+		},
+		"x7":{
+			"value":"$core.x6 + floor(5/4+1)*2",
+			"type":"other"
+		},
+		"x8":{
+			"value":"$core.x7 + floor(6/4+1)*2",
+			"type":"other"
+		},
+		"x9":{
+			"value":"$core.x8 + floor(7/4+1)*2",
+			"type":"other"
+		},
+		"x10":{
+			"value":"$core.x9 + floor(8/4+1)*2",
+			"type":"other"
+		},
+		"x11":{
+			"value":"$core.x10 + floor(9/4+1)*2",
+			"type":"other"
+		},
+		"x12":{
+			"value":"$core.x11 + floor(10/4+1)*2",
+			"type":"other"
+		},
+		"x13":{
+			"value":"$core.x12 + floor(11/4+1)*2",
+			"type":"other"
+		},
+		"x14":{
+			"value":"$core.x13 + floor(12/4+1)*2",
+			"type":"other"
+		},
+		"x15":{
+			"value":"$core.x14 + floor(13/4+1)*2",
+			"type":"other"
+		},
+		"x16":{
+			"value":"$core.x15 + floor(14/4+1)*2",
+			"type":"other"
+		},
+		"x17":{
+			"value":"$core.x16 + floor(15/4+1)*2",
+			"type":"other"
+		},
+		"x18":{
+			"value":"$core.x17 + floor(16/4+1)*2",
+			"type":"other"
+		},
+		"x19":{
+			"value":"$core.x18 + floor(17/4+1)*2",
+			"type":"other"
+		},
+		"x20":{
+			"value":"$core.x19 + floor(18/4+1)*2",
+			"type":"other"
+		},
+		"x21":{
+			"value":"$core.x20 + floor(19/4+1)*2",
+			"type":"other"
+		},
+		"x22":{
+			"value":"$core.x21 + floor(20/4+1)*2",
+			"type":"other"
+		},
+		"x23":{
+			"value":"$core.x22 + floor(21/4+1)*2",
+			"type":"other"
+		},
+		"x24":{
+			"value":"$core.x23 + floor(22/4+1)*2",
+			"type":"other"
+		},
+		"x25":{
+			"value":"$core.x24 + floor(23/4+1)*2",
+			"type":"other"
+		}
+	}
+}

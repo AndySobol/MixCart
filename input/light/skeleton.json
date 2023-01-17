@@ -1,0 +1,18 @@
+{
+	"skeleton": {
+		"element": {
+			"value": "hsla($core.grey, 78%, 1)",
+			"type": "color"
+		},
+
+		"bg": {
+			"value": "hsla($core.grey, 90%, 1)",
+			"type": "color"
+		},
+
+		"overlay": {
+			"value": "hsla($core.grey, 10, 0.5)",
+			"type": "color"
+		}
+	}
+}

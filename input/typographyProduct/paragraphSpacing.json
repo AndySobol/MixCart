@@ -1,0 +1,23 @@
+{
+	"paragraphSpacing": {
+		"none": {
+			"value": "0",
+			"type": "paragraphSpacing"
+		},
+
+		"weak": {
+			"value": "16",
+			"type": "paragraphSpacing"
+		},
+
+		"medium": {
+			"value": "32",
+			"type": "paragraphSpacing"
+		},
+
+		"strong": {
+			"value": "64",
+			"type": "paragraphSpacing"
+		}
+	}
+}

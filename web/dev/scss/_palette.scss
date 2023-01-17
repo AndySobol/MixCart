@@ -1,0 +1,73 @@
+$neutralsBase: hsla(0, 0, 1%, 1);
+$neutrals10: lighten($neutralsBase, 10%);
+$neutrals20: lighten($neutralsBase, 20%);
+$neutrals30: lighten($neutralsBase, 30%);
+$neutrals40: lighten($neutralsBase, 40%);
+$neutrals50: lighten($neutralsBase, 50%);
+$neutrals60: lighten($neutralsBase, 60%);
+$neutrals70: lighten($neutralsBase, 70%);
+$neutrals80: lighten($neutralsBase, 80%);
+$neutrals90: lighten($neutralsBase, 90%);
+$neutrals100: lighten($neutralsBase, 100%);
+
+$successBase: hsla(156, 50, 1%, 1);
+$success10: lighten($successBase, 10%);
+$success20: lighten($successBase, 20%);
+$success30: lighten($successBase, 30%);
+$success40: lighten($successBase, 40%);
+$success50: lighten($successBase, 50%);
+$success60: lighten($successBase, 60%);
+$success70: lighten($successBase, 70%);
+$success80: lighten($successBase, 80%);
+$success90: lighten($successBase, 90%);
+$success100: lighten($successBase, 100%);
+
+$warningBase: hsla(36, 90, 1%, 1);
+$warning10: lighten($warningBase, 10%);
+$warning20: lighten($warningBase, 20%);
+$warning30: lighten($warningBase, 30%);
+$warning40: lighten($warningBase, 40%);
+$warning50: lighten($warningBase, 50%);
+$warning60: lighten($warningBase, 60%);
+$warning70: lighten($warningBase, 70%);
+$warning80: lighten($warningBase, 80%);
+$warning90: lighten($warningBase, 90%);
+$warning100: lighten($warningBase, 100%);
+
+$dangerBase: hsla(360, 76, 1%, 1);
+$danger10: lighten($dangerBase, 10%);
+$danger20: lighten($dangerBase, 20%);
+$danger30: lighten($dangerBase, 30%);
+$danger40: lighten($dangerBase, 40%);
+$danger50: lighten($dangerBase, 50%);
+$danger60: lighten($dangerBase, 60%);
+$danger70: lighten($dangerBase, 70%);
+$danger80: lighten($dangerBase, 80%);
+$danger90: lighten($dangerBase, 90%);
+$danger100: lighten($dangerBase, 100%);
+
+$accentBase: hsla(348, 76, 1%, 1);
+$accent10: lighten($accentBase, 10%);
+$accent20: lighten($accentBase, 20%);
+$accent30: lighten($accentBase, 30%);
+$accent40: lighten($accentBase, 40%);
+$accent50: lighten($accentBase, 50%);
+$accent60: lighten($accentBase, 60%);
+$accent70: lighten($accentBase, 70%);
+$accent80: lighten($accentBase, 80%);
+$accent90: lighten($accentBase, 90%);
+$accent100: lighten($accentBase, 100%);
+
+$brandBase: hsla(46, 96, 1%, 1);
+$brand10: lighten($brandBase, 10%);
+$brand20: lighten($brandBase, 20%);
+$brand30: lighten($brandBase, 30%);
+$brand40: lighten($brandBase, 40%);
+$brand50: lighten($brandBase, 50%);
+$brand60: lighten($brandBase, 60%);
+$brand70: lighten($brandBase, 70%);
+$brand80: lighten($brandBase, 80%);
+$brand90: lighten($brandBase, 90%);
+$brand100: lighten($brandBase, 100%);
+
+$product: "Roboto";

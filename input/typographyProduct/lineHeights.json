@@ -1,0 +1,28 @@
+{
+	"lineHeights": {
+		"lessBody": {
+			"value": "116%",
+			"type": "lineHeights"
+		},
+
+		"body": {
+			"value": "124%",
+			"type": "lineHeights"
+		},
+
+		"button": {
+			"value": "140%",
+			"type": "lineHeights"
+		},
+
+		"body-m": {
+			"value": "140%",
+			"type": "lineHeights"
+		},
+
+		"moreBody": {
+			"value": "154%",
+			"type": "lineHeights"
+		}
+	}
+}

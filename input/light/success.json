@@ -1,0 +1,33 @@
+{
+	"success": {
+		"text": { "value": "hsla($core.green, 50%, 1)", "type": "color" },
+		"text-medium": { "value": "$lock.text-medium", "type": "color" },
+		"text-disabled": { "value": "$lock.text-disabled", "type": "color" },
+		"text-onColor": { "value": "hsla($core.green, 96%, 1)", "type": "color" },
+
+		"bg": { "value": "hsla($core.green, 50%, 1)", "type": "color" },
+		"bg-hover": { "value": "hsla($core.green, 46%, 1)", "type": "color" },
+		"bg-focus": { "value": "hsla($core.green, 42%, 1)", "type": "color" },
+
+		"mute": { "value": "hsla($core.green, 94%, 1)", "type": "color" },
+		"mute-hover": { "value": "hsla($core.green, 88%, 1)", "type": "color" },
+		"mute-focus": { "value": "hsla($core.green, 82%, 1)", "type": "color" },
+
+		"border": { "value": "hsla($core.green, 40%, 1)", "type": "color" },
+		"border-elevation": {
+			"value": "linear-gradient(180deg, hsla($core.green, 40%, 0%) 90%, hsla($core.green, 40%, 1) 100%)",
+			"type": "color"
+		},
+
+		"icon": { "value": "hsla($core.green, 50%, 1)", "type": "color" },
+		"icon-hover": { "value": "hsla($core.green, 46%, 1)", "type": "color" },
+
+		"icon-onColor": { "value": "hsla($core.green, 96%, 1)", "type": "color" },
+		"icon-onColor-hover": {
+			"value": "hsla($core.green, 92%, 1)",
+			"type": "color"
+		},
+
+		"disabled": { "value": "$lock.disabled", "type": "color" }
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"onyx": {
+		"text": { "value": "hsla($core.grey, 88%, 1)", "type": "color" },
+		"text-medium": { "value": "hsla($core.grey, 56%, 1)", "type": "color" },
+		"text-disabled": { "value": "hsla($core.grey, 44%, 1)", "type": "color" },
+		"text-onColor": { "value": "hsla($core.grey, 96%, 1)", "type": "color" },
+
+		"bg": { "value": "hsla($core.grey, 0%, 1)", "type": "color" },
+		"bg-hover": { "value": "hsla($core.grey, 8%, 1)", "type": "color" },
+		"bg-focus": { "value": "hsla($core.grey, 16%, 1)", "type": "color" },
+
+		"fg": { "value": "hsla($core.grey, 12%, 1)", "type": "color" },
+		"fg-hover": { "value": "hsla($core.grey, 20%, 1)", "type": "color" },
+		"fg-focus": { "value": "hsla($core.grey, 24%, 1)", "type": "color" },
+
+		"mute": { "value": "hsla($core.grey, 20%, 1)", "type": "color" },
+		"mute-hover": { "value": "hsla($core.grey, 24%, 1)", "type": "color" },
+		"mute-focus": { "value": "hsla($core.grey, 28%, 1)", "type": "color" },
+
+		"border": { "value": "hsla($core.grey, 12%, 1)", "type": "color" },
+		"border-elevation": {
+			"value": "linear-gradient(180deg, hsla($core.grey, 12%, 0) 90%, hsla($core.grey, 12%, 1) 100%)",
+			"type": "color"
+		},
+
+		"icon": { "value": "hsla($core.grey, 96%, 1)", "type": "color" },
+		"icon-hover": { "value": "hsla($core.grey, 88%, 1)", "type": "color" },
+
+		"icon-onColor": { "value": "hsla($core.grey, 96%, 1)", "type": "color" },
+		"icon-onColor-hover": {
+			"value": "hsla($core.grey, 88%, 1)",
+			"type": "color"
+		},
+
+		"disabled": { "value": "hsla($core.grey, 32%, 1)", "type": "color" }
+	}
+}

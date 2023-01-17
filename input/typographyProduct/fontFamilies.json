@@ -1,0 +1,18 @@
+{
+	"fontFamilies": {
+		"product": {
+			"value": "PF DIN Global",
+			"type": "fontFamilies"
+		},
+
+		"apple": {
+			"value": "SF Pro",
+			"type": "fontFamilies"
+		},
+
+		"mail": {
+			"value": "Roboto",
+			"type": "fontFamilies"
+		}
+	}
+}

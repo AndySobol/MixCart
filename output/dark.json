@@ -1,0 +1,2726 @@
+{
+  "accent": {
+    "text": {
+      "value": "hsla($core.pink, 40%, 1)",
+      "type": "color",
+      "filePath": "input/dark/accent.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.pink, 40%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "accent",
+        "type": "text"
+      },
+      "path": [
+        "accent",
+        "text"
+      ]
+    },
+    "text-medium": {
+      "value": "$lock.text-medium",
+      "type": "color",
+      "filePath": "input/dark/accent.json",
+      "isSource": true,
+      "original": {
+        "value": "$lock.text-medium",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "accent",
+        "type": "text-medium"
+      },
+      "path": [
+        "accent",
+        "text-medium"
+      ]
+    },
+    "text-disabled": {
+      "value": "$lock.text-disabled",
+      "type": "color",
+      "filePath": "input/dark/accent.json",
+      "isSource": true,
+      "original": {
+        "value": "$lock.text-disabled",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "accent",
+        "type": "text-disabled"
+      },
+      "path": [
+        "accent",
+        "text-disabled"
+      ]
+    },
+    "text-onColor": {
+      "value": "hsla($core.pink, 88%, 1)",
+      "type": "color",
+      "filePath": "input/dark/accent.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.pink, 88%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "accent",
+        "type": "text-onColor"
+      },
+      "path": [
+        "accent",
+        "text-onColor"
+      ]
+    },
+    "bg": {
+      "value": "hsla($core.pink, 40%, 1)",
+      "type": "color",
+      "filePath": "input/dark/accent.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.pink, 40%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "accent",
+        "type": "bg"
+      },
+      "path": [
+        "accent",
+        "bg"
+      ]
+    },
+    "bg-hover": {
+      "value": "hsla($core.pink, 44%, 1)",
+      "type": "color",
+      "filePath": "input/dark/accent.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.pink, 44%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "accent",
+        "type": "bg-hover"
+      },
+      "path": [
+        "accent",
+        "bg-hover"
+      ]
+    },
+    "bg-focus": {
+      "value": "hsla($core.pink, 48%, 1)",
+      "type": "color",
+      "filePath": "input/dark/accent.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.pink, 48%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "accent",
+        "type": "bg-focus"
+      },
+      "path": [
+        "accent",
+        "bg-focus"
+      ]
+    },
+    "mute": {
+      "value": "hsla($core.pink, 84%, 1)",
+      "type": "color",
+      "filePath": "input/dark/accent.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.pink, 84%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "accent",
+        "type": "mute"
+      },
+      "path": [
+        "accent",
+        "mute"
+      ]
+    },
+    "mute-hover": {
+      "value": "hsla($core.pink, 80%, 1)",
+      "type": "color",
+      "filePath": "input/dark/accent.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.pink, 80%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "accent",
+        "type": "mute-hover"
+      },
+      "path": [
+        "accent",
+        "mute-hover"
+      ]
+    },
+    "mute-focus": {
+      "value": "hsla($core.pink, 76%, 1)",
+      "type": "color",
+      "filePath": "input/dark/accent.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.pink, 76%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "accent",
+        "type": "mute-focus"
+      },
+      "path": [
+        "accent",
+        "mute-focus"
+      ]
+    },
+    "border": {
+      "value": "hsla($core.pink, 30%, 1)",
+      "type": "color",
+      "filePath": "input/dark/accent.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.pink, 30%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "accent",
+        "type": "border"
+      },
+      "path": [
+        "accent",
+        "border"
+      ]
+    },
+    "border-elevation": {
+      "value": "linear-gradient(180deg, hsla($core.pink, 30%, 0) 90%, hsla($core.pink, 30%, 1) 100%)",
+      "type": "color",
+      "filePath": "input/dark/accent.json",
+      "isSource": true,
+      "original": {
+        "value": "linear-gradient(180deg, hsla($core.pink, 30%, 0) 90%, hsla($core.pink, 30%, 1) 100%)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "accent",
+        "type": "border-elevation"
+      },
+      "path": [
+        "accent",
+        "border-elevation"
+      ]
+    },
+    "icon": {
+      "value": "hsla($core.pink, 40%, 1)",
+      "type": "color",
+      "filePath": "input/dark/accent.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.pink, 40%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "accent",
+        "type": "icon"
+      },
+      "path": [
+        "accent",
+        "icon"
+      ]
+    },
+    "icon-hover": {
+      "value": "hsla($core.pink, 44%, 1)",
+      "type": "color",
+      "filePath": "input/dark/accent.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.pink, 44%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "accent",
+        "type": "icon-hover"
+      },
+      "path": [
+        "accent",
+        "icon-hover"
+      ]
+    },
+    "icon-onColor": {
+      "value": "hsla($core.pink, 88%, 1)",
+      "type": "color",
+      "filePath": "input/dark/accent.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.pink, 88%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "accent",
+        "type": "icon-onColor"
+      },
+      "path": [
+        "accent",
+        "icon-onColor"
+      ]
+    },
+    "icon-onColor-hover": {
+      "value": "hsla($core.pink, 84%, 1)",
+      "type": "color",
+      "filePath": "input/dark/accent.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.pink, 84%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "accent",
+        "type": "icon-onColor-hover"
+      },
+      "path": [
+        "accent",
+        "icon-onColor-hover"
+      ]
+    },
+    "disabled": {
+      "value": "$lock.disabled",
+      "type": "color",
+      "filePath": "input/dark/accent.json",
+      "isSource": true,
+      "original": {
+        "value": "$lock.disabled",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "accent",
+        "type": "disabled"
+      },
+      "path": [
+        "accent",
+        "disabled"
+      ]
+    }
+  },
+  "blur": {
+    "weak": {
+      "value": {
+        "blur": "20",
+        "color": "hsla($core.grey, 12%, 0.78)",
+        "type": "blur"
+      },
+      "type": "other",
+      "filePath": "input/dark/blur.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "blur": "20",
+          "color": "hsla($core.grey, 12%, 0.78)",
+          "type": "blur"
+        },
+        "type": "other"
+      },
+      "attributes": {
+        "category": "blur",
+        "type": "weak"
+      },
+      "path": [
+        "blur",
+        "weak"
+      ]
+    },
+    "medium": {
+      "value": {
+        "blur": "54",
+        "color": "hsla($core.grey, 12%, 0.78)",
+        "type": "blur"
+      },
+      "type": "other",
+      "filePath": "input/dark/blur.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "blur": "54",
+          "color": "hsla($core.grey, 12%, 0.78)",
+          "type": "blur"
+        },
+        "type": "other"
+      },
+      "attributes": {
+        "category": "blur",
+        "type": "medium"
+      },
+      "path": [
+        "blur",
+        "medium"
+      ]
+    },
+    "strong": {
+      "value": {
+        "blur": "124",
+        "color": "hsla($core.grey, 12%, 0.78)",
+        "type": "blur"
+      },
+      "type": "other",
+      "filePath": "input/dark/blur.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "blur": "124",
+          "color": "hsla($core.grey, 12%, 0.78)",
+          "type": "blur"
+        },
+        "type": "other"
+      },
+      "attributes": {
+        "category": "blur",
+        "type": "strong"
+      },
+      "path": [
+        "blur",
+        "strong"
+      ]
+    }
+  },
+  "brand": {
+    "text": {
+      "value": "hsla($core.yellow, 40%, 1)",
+      "type": "color",
+      "filePath": "input/dark/brand.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.yellow, 40%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "brand",
+        "type": "text"
+      },
+      "path": [
+        "brand",
+        "text"
+      ]
+    },
+    "text-medium": {
+      "value": "$lock.text-medium",
+      "type": "color",
+      "filePath": "input/dark/brand.json",
+      "isSource": true,
+      "original": {
+        "value": "$lock.text-medium",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "brand",
+        "type": "text-medium"
+      },
+      "path": [
+        "brand",
+        "text-medium"
+      ]
+    },
+    "text-disabled": {
+      "value": "$lock.text-disabled",
+      "type": "color",
+      "filePath": "input/dark/brand.json",
+      "isSource": true,
+      "original": {
+        "value": "$lock.text-disabled",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "brand",
+        "type": "text-disabled"
+      },
+      "path": [
+        "brand",
+        "text-disabled"
+      ]
+    },
+    "text-onColor": {
+      "value": "$lock.text",
+      "type": "color",
+      "filePath": "input/dark/brand.json",
+      "isSource": true,
+      "original": {
+        "value": "$lock.text",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "brand",
+        "type": "text-onColor"
+      },
+      "path": [
+        "brand",
+        "text-onColor"
+      ]
+    },
+    "bg": {
+      "value": "hsla($core.yellow, 50%, 1)",
+      "type": "color",
+      "filePath": "input/dark/brand.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.yellow, 50%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "brand",
+        "type": "bg"
+      },
+      "path": [
+        "brand",
+        "bg"
+      ]
+    },
+    "bg-hover": {
+      "value": "hsla($core.yellow, 46%, 1)",
+      "type": "color",
+      "filePath": "input/dark/brand.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.yellow, 46%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "brand",
+        "type": "bg-hover"
+      },
+      "path": [
+        "brand",
+        "bg-hover"
+      ]
+    },
+    "bg-focus": {
+      "value": "hsla($core.yellow, 42%, 1)",
+      "type": "color",
+      "filePath": "input/dark/brand.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.yellow, 42%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "brand",
+        "type": "bg-focus"
+      },
+      "path": [
+        "brand",
+        "bg-focus"
+      ]
+    },
+    "mute": {
+      "value": "hsla($core.yellow, 94%, 1)",
+      "type": "color",
+      "filePath": "input/dark/brand.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.yellow, 94%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "brand",
+        "type": "mute"
+      },
+      "path": [
+        "brand",
+        "mute"
+      ]
+    },
+    "mute-hover": {
+      "value": "hsla($core.yellow, 88%, 1)",
+      "type": "color",
+      "filePath": "input/dark/brand.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.yellow, 88%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "brand",
+        "type": "mute-hover"
+      },
+      "path": [
+        "brand",
+        "mute-hover"
+      ]
+    },
+    "mute-focus": {
+      "value": "hsla($core.yellow, 82%, 1)",
+      "type": "color",
+      "filePath": "input/dark/brand.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.yellow, 82%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "brand",
+        "type": "mute-focus"
+      },
+      "path": [
+        "brand",
+        "mute-focus"
+      ]
+    },
+    "border": {
+      "value": "hsla($core.yellow, 30%, 1)",
+      "type": "color",
+      "filePath": "input/dark/brand.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.yellow, 30%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "brand",
+        "type": "border"
+      },
+      "path": [
+        "brand",
+        "border"
+      ]
+    },
+    "border-elevation": {
+      "value": "linear-gradient(180deg, hsla($core.yellow, 30%, 0) 90%, hsla($core.yellow, 30%, 1) 100%)",
+      "type": "color",
+      "filePath": "input/dark/brand.json",
+      "isSource": true,
+      "original": {
+        "value": "linear-gradient(180deg, hsla($core.yellow, 30%, 0) 90%, hsla($core.yellow, 30%, 1) 100%)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "brand",
+        "type": "border-elevation"
+      },
+      "path": [
+        "brand",
+        "border-elevation"
+      ]
+    },
+    "icon": {
+      "value": "hsla($core.yellow, 50%, 1)",
+      "type": "color",
+      "filePath": "input/dark/brand.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.yellow, 50%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "brand",
+        "type": "icon"
+      },
+      "path": [
+        "brand",
+        "icon"
+      ]
+    },
+    "icon-hover": {
+      "value": "hsla($core.yellow, 46%, 1)",
+      "type": "color",
+      "filePath": "input/dark/brand.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.yellow, 46%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "brand",
+        "type": "icon-hover"
+      },
+      "path": [
+        "brand",
+        "icon-hover"
+      ]
+    },
+    "icon-onColor": {
+      "value": "$lock.text",
+      "type": "color",
+      "filePath": "input/dark/brand.json",
+      "isSource": true,
+      "original": {
+        "value": "$lock.text",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "brand",
+        "type": "icon-onColor"
+      },
+      "path": [
+        "brand",
+        "icon-onColor"
+      ]
+    },
+    "icon-onColor-hover": {
+      "value": "$lock.text",
+      "type": "color",
+      "filePath": "input/dark/brand.json",
+      "isSource": true,
+      "original": {
+        "value": "$lock.text",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "brand",
+        "type": "icon-onColor-hover"
+      },
+      "path": [
+        "brand",
+        "icon-onColor-hover"
+      ]
+    },
+    "disabled": {
+      "value": "$lock.disabled",
+      "type": "color",
+      "filePath": "input/dark/brand.json",
+      "isSource": true,
+      "original": {
+        "value": "$lock.disabled",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "brand",
+        "type": "disabled"
+      },
+      "path": [
+        "brand",
+        "disabled"
+      ]
+    }
+  },
+  "core": {
+    "grey": {
+      "value": "0, 0%",
+      "type": "other",
+      "filePath": "input/dark/core.json",
+      "isSource": true,
+      "original": {
+        "value": "0, 0%",
+        "type": "other"
+      },
+      "attributes": {
+        "category": "core",
+        "type": "grey"
+      },
+      "path": [
+        "core",
+        "grey"
+      ]
+    },
+    "green": {
+      "value": "156, 44%",
+      "type": "other",
+      "filePath": "input/dark/core.json",
+      "isSource": true,
+      "original": {
+        "value": "156, 44%",
+        "type": "other"
+      },
+      "attributes": {
+        "category": "core",
+        "type": "green"
+      },
+      "path": [
+        "core",
+        "green"
+      ]
+    },
+    "orange": {
+      "value": "30, 100%",
+      "type": "other",
+      "filePath": "input/dark/core.json",
+      "isSource": true,
+      "original": {
+        "value": "30, 100%",
+        "type": "other"
+      },
+      "attributes": {
+        "category": "core",
+        "type": "orange"
+      },
+      "path": [
+        "core",
+        "orange"
+      ]
+    },
+    "red": {
+      "value": "0, 76%",
+      "type": "other",
+      "filePath": "input/dark/core.json",
+      "isSource": true,
+      "original": {
+        "value": "0, 76%",
+        "type": "other"
+      },
+      "attributes": {
+        "category": "core",
+        "type": "red"
+      },
+      "path": [
+        "core",
+        "red"
+      ]
+    },
+    "pink": {
+      "value": "340, 85%",
+      "type": "other",
+      "filePath": "input/dark/core.json",
+      "isSource": true,
+      "original": {
+        "value": "340, 85%",
+        "type": "other"
+      },
+      "attributes": {
+        "category": "core",
+        "type": "pink"
+      },
+      "path": [
+        "core",
+        "pink"
+      ]
+    },
+    "yellow": {
+      "value": "50, 100%",
+      "type": "other",
+      "filePath": "input/dark/core.json",
+      "isSource": true,
+      "original": {
+        "value": "50, 100%",
+        "type": "other"
+      },
+      "attributes": {
+        "category": "core",
+        "type": "yellow"
+      },
+      "path": [
+        "core",
+        "yellow"
+      ]
+    }
+  },
+  "danger": {
+    "text": {
+      "value": "hsla($core.red, 40%, 1)",
+      "type": "color",
+      "filePath": "input/dark/danger.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.red, 40%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "danger",
+        "type": "text"
+      },
+      "path": [
+        "danger",
+        "text"
+      ]
+    },
+    "text-medium": {
+      "value": "$lock.text-medium",
+      "type": "color",
+      "filePath": "input/dark/danger.json",
+      "isSource": true,
+      "original": {
+        "value": "$lock.text-medium",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "danger",
+        "type": "text-medium"
+      },
+      "path": [
+        "danger",
+        "text-medium"
+      ]
+    },
+    "text-disabled": {
+      "value": "$lock.text-disabled",
+      "type": "color",
+      "filePath": "input/dark/danger.json",
+      "isSource": true,
+      "original": {
+        "value": "$lock.text-disabled",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "danger",
+        "type": "text-disabled"
+      },
+      "path": [
+        "danger",
+        "text-disabled"
+      ]
+    },
+    "text-onColor": {
+      "value": "hsla($core.red, 88%, 1)",
+      "type": "color",
+      "filePath": "input/dark/danger.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.red, 88%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "danger",
+        "type": "text-onColor"
+      },
+      "path": [
+        "danger",
+        "text-onColor"
+      ]
+    },
+    "bg": {
+      "value": "hsla($core.red, 40%, 1)",
+      "type": "color",
+      "filePath": "input/dark/danger.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.red, 40%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "danger",
+        "type": "bg"
+      },
+      "path": [
+        "danger",
+        "bg"
+      ]
+    },
+    "bg-hover": {
+      "value": "hsla($core.red, 44%, 1)",
+      "type": "color",
+      "filePath": "input/dark/danger.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.red, 44%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "danger",
+        "type": "bg-hover"
+      },
+      "path": [
+        "danger",
+        "bg-hover"
+      ]
+    },
+    "bg-focus": {
+      "value": "hsla($core.red, 48%, 1)",
+      "type": "color",
+      "filePath": "input/dark/danger.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.red, 48%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "danger",
+        "type": "bg-focus"
+      },
+      "path": [
+        "danger",
+        "bg-focus"
+      ]
+    },
+    "mute": {
+      "value": "hsla($core.red, 84%, 1)",
+      "type": "color",
+      "filePath": "input/dark/danger.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.red, 84%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "danger",
+        "type": "mute"
+      },
+      "path": [
+        "danger",
+        "mute"
+      ]
+    },
+    "mute-hover": {
+      "value": "hsla($core.red, 80%, 1)",
+      "type": "color",
+      "filePath": "input/dark/danger.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.red, 80%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "danger",
+        "type": "mute-hover"
+      },
+      "path": [
+        "danger",
+        "mute-hover"
+      ]
+    },
+    "mute-focus": {
+      "value": "hsla($core.red, 76%, 1)",
+      "type": "color",
+      "filePath": "input/dark/danger.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.red, 76%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "danger",
+        "type": "mute-focus"
+      },
+      "path": [
+        "danger",
+        "mute-focus"
+      ]
+    },
+    "border": {
+      "value": "hsla($core.red, 30%, 1)",
+      "type": "color",
+      "filePath": "input/dark/danger.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.red, 30%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "danger",
+        "type": "border"
+      },
+      "path": [
+        "danger",
+        "border"
+      ]
+    },
+    "border-elevation": {
+      "value": "linear-gradient(180deg, hsla($core.red, 30%, 0) 90%, hsla($core.red, 30%, 1) 100%)",
+      "type": "color",
+      "filePath": "input/dark/danger.json",
+      "isSource": true,
+      "original": {
+        "value": "linear-gradient(180deg, hsla($core.red, 30%, 0) 90%, hsla($core.red, 30%, 1) 100%)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "danger",
+        "type": "border-elevation"
+      },
+      "path": [
+        "danger",
+        "border-elevation"
+      ]
+    },
+    "icon": {
+      "value": "hsla($core.red, 40%, 1)",
+      "type": "color",
+      "filePath": "input/dark/danger.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.red, 40%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "danger",
+        "type": "icon"
+      },
+      "path": [
+        "danger",
+        "icon"
+      ]
+    },
+    "icon-hover": {
+      "value": "hsla($core.red, 44%, 1)",
+      "type": "color",
+      "filePath": "input/dark/danger.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.red, 44%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "danger",
+        "type": "icon-hover"
+      },
+      "path": [
+        "danger",
+        "icon-hover"
+      ]
+    },
+    "icon-onColor": {
+      "value": "hsla($core.red, 88%, 1)",
+      "type": "color",
+      "filePath": "input/dark/danger.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.red, 88%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "danger",
+        "type": "icon-onColor"
+      },
+      "path": [
+        "danger",
+        "icon-onColor"
+      ]
+    },
+    "icon-onColor-hover": {
+      "value": "hsla($core.red, 84%, 1)",
+      "type": "color",
+      "filePath": "input/dark/danger.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.red, 84%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "danger",
+        "type": "icon-onColor-hover"
+      },
+      "path": [
+        "danger",
+        "icon-onColor-hover"
+      ]
+    },
+    "disabled": {
+      "value": "$lock.disabled",
+      "type": "color",
+      "filePath": "input/dark/danger.json",
+      "isSource": true,
+      "original": {
+        "value": "$lock.disabled",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "danger",
+        "type": "disabled"
+      },
+      "path": [
+        "danger",
+        "disabled"
+      ]
+    }
+  },
+  "lock": {
+    "text": {
+      "value": "hsla($core.grey, 12%, 1)",
+      "filePath": "input/dark/lock.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 12%, 1)"
+      },
+      "attributes": {
+        "category": "lock",
+        "type": "text"
+      },
+      "path": [
+        "lock",
+        "text"
+      ]
+    },
+    "text-medium": {
+      "value": "hsla($core.grey, 56%, 1)",
+      "filePath": "input/dark/lock.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 56%, 1)"
+      },
+      "attributes": {
+        "category": "lock",
+        "type": "text-medium"
+      },
+      "path": [
+        "lock",
+        "text-medium"
+      ]
+    },
+    "text-disabled": {
+      "value": "hsla($core.grey, 12%, 1)",
+      "filePath": "input/dark/lock.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 12%, 1)"
+      },
+      "attributes": {
+        "category": "lock",
+        "type": "text-disabled"
+      },
+      "path": [
+        "lock",
+        "text-disabled"
+      ]
+    },
+    "disabled": {
+      "value": "hsla($core.grey, 88%, 1)",
+      "filePath": "input/dark/lock.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 88%, 1)"
+      },
+      "attributes": {
+        "category": "lock",
+        "type": "disabled"
+      },
+      "path": [
+        "lock",
+        "disabled"
+      ]
+    }
+  },
+  "neutral": {
+    "text": {
+      "value": "hsla($core.grey, 88%, 1)",
+      "type": "color",
+      "filePath": "input/dark/neutrails.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 88%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "text"
+      },
+      "path": [
+        "neutral",
+        "text"
+      ]
+    },
+    "text-medium": {
+      "value": "$lock.text-medium",
+      "type": "color",
+      "filePath": "input/dark/neutrails.json",
+      "isSource": true,
+      "original": {
+        "value": "$lock.text-medium",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "text-medium"
+      },
+      "path": [
+        "neutral",
+        "text-medium"
+      ]
+    },
+    "text-disabled": {
+      "value": "$lock.text-disabled",
+      "type": "color",
+      "filePath": "input/dark/neutrails.json",
+      "isSource": true,
+      "original": {
+        "value": "$lock.text-disabled",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "text-disabled"
+      },
+      "path": [
+        "neutral",
+        "text-disabled"
+      ]
+    },
+    "text-onColor": {
+      "value": "hsla($core.grey, 96%, 1)",
+      "type": "color",
+      "filePath": "input/dark/neutrails.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 96%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "text-onColor"
+      },
+      "path": [
+        "neutral",
+        "text-onColor"
+      ]
+    },
+    "bg": {
+      "value": "hsla($core.grey, 6%, 1)",
+      "type": "color",
+      "filePath": "input/dark/neutrails.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 6%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "bg"
+      },
+      "path": [
+        "neutral",
+        "bg"
+      ]
+    },
+    "bg-hover": {
+      "value": "hsla($core.grey, 10%, 1)",
+      "type": "color",
+      "filePath": "input/dark/neutrails.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 10%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "bg-hover"
+      },
+      "path": [
+        "neutral",
+        "bg-hover"
+      ]
+    },
+    "bg-focus": {
+      "value": "hsla($core.grey, 14%, 1)",
+      "type": "color",
+      "filePath": "input/dark/neutrails.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 14%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "bg-focus"
+      },
+      "path": [
+        "neutral",
+        "bg-focus"
+      ]
+    },
+    "fg": {
+      "value": "hsla($core.grey, 10%, 1)",
+      "type": "color",
+      "filePath": "input/dark/neutrails.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 10%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "fg"
+      },
+      "path": [
+        "neutral",
+        "fg"
+      ]
+    },
+    "fg-hover": {
+      "value": "hsla($core.grey, 14%, 1)",
+      "type": "color",
+      "filePath": "input/dark/neutrails.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 14%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "fg-hover"
+      },
+      "path": [
+        "neutral",
+        "fg-hover"
+      ]
+    },
+    "fg-focus": {
+      "value": "hsla($core.grey, 18%, 1)",
+      "type": "color",
+      "filePath": "input/dark/neutrails.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 18%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "fg-focus"
+      },
+      "path": [
+        "neutral",
+        "fg-focus"
+      ]
+    },
+    "mute": {
+      "value": "hsla($core.grey, 20%, 1)",
+      "type": "color",
+      "filePath": "input/dark/neutrails.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 20%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "mute"
+      },
+      "path": [
+        "neutral",
+        "mute"
+      ]
+    },
+    "mute-hover": {
+      "value": "hsla($core.grey, 24%, 1)",
+      "type": "color",
+      "filePath": "input/dark/neutrails.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 24%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "mute-hover"
+      },
+      "path": [
+        "neutral",
+        "mute-hover"
+      ]
+    },
+    "mute-focus": {
+      "value": "hsla($core.grey, 28%, 1)",
+      "type": "color",
+      "filePath": "input/dark/neutrails.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 28%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "mute-focus"
+      },
+      "path": [
+        "neutral",
+        "mute-focus"
+      ]
+    },
+    "border": {
+      "value": "hsla($core.grey, 12%, 1)",
+      "type": "color",
+      "filePath": "input/dark/neutrails.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 12%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "border"
+      },
+      "path": [
+        "neutral",
+        "border"
+      ]
+    },
+    "border-elevation": {
+      "value": "linear-gradient(180deg, hsla($core.grey, 12%, 0) 90%, hsla($core.grey, 12%, 1) 100%)",
+      "type": "color",
+      "filePath": "input/dark/neutrails.json",
+      "isSource": true,
+      "original": {
+        "value": "linear-gradient(180deg, hsla($core.grey, 12%, 0) 90%, hsla($core.grey, 12%, 1) 100%)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "border-elevation"
+      },
+      "path": [
+        "neutral",
+        "border-elevation"
+      ]
+    },
+    "icon": {
+      "value": "hsla($core.grey, 96%, 1)",
+      "type": "color",
+      "filePath": "input/dark/neutrails.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 96%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "icon"
+      },
+      "path": [
+        "neutral",
+        "icon"
+      ]
+    },
+    "icon-hover": {
+      "value": "hsla($core.grey, 88%, 1)",
+      "type": "color",
+      "filePath": "input/dark/neutrails.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 88%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "icon-hover"
+      },
+      "path": [
+        "neutral",
+        "icon-hover"
+      ]
+    },
+    "icon-onColor": {
+      "value": "hsla($core.grey, 12%, 1)",
+      "type": "color",
+      "filePath": "input/dark/neutrails.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 12%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "icon-onColor"
+      },
+      "path": [
+        "neutral",
+        "icon-onColor"
+      ]
+    },
+    "icon-onColor-hover": {
+      "value": "hsla($core.grey, 24%, 1)",
+      "type": "color",
+      "filePath": "input/dark/neutrails.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 24%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "icon-onColor-hover"
+      },
+      "path": [
+        "neutral",
+        "icon-onColor-hover"
+      ]
+    },
+    "disabled": {
+      "value": "$lock.disabled",
+      "type": "color",
+      "filePath": "input/dark/neutrails.json",
+      "isSource": true,
+      "original": {
+        "value": "$lock.disabled",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "disabled"
+      },
+      "path": [
+        "neutral",
+        "disabled"
+      ]
+    },
+    "surface": {
+      "value": {
+        "x": "0",
+        "y": "2",
+        "blur": "4",
+        "spread": "0",
+        "color": "hsla($core.grey, 0%, 0.14)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "filePath": "input/dark/shadow.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "x": "0",
+          "y": "2",
+          "blur": "4",
+          "spread": "0",
+          "color": "hsla($core.grey, 0%, 0.14)",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "surface"
+      },
+      "path": [
+        "neutral",
+        "surface"
+      ]
+    },
+    "tooltip": {
+      "value": {
+        "x": "0",
+        "y": "4",
+        "blur": "8",
+        "spread": "0",
+        "color": "hsla($core.grey, 0%, 0.26)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "filePath": "input/dark/shadow.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "x": "0",
+          "y": "4",
+          "blur": "8",
+          "spread": "0",
+          "color": "hsla($core.grey, 0%, 0.26)",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "tooltip"
+      },
+      "path": [
+        "neutral",
+        "tooltip"
+      ]
+    },
+    "fly": {
+      "value": {
+        "x": "0",
+        "y": "8",
+        "blur": "16",
+        "spread": "0",
+        "color": "hsla($core.grey, 0%, 0.14)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "filePath": "input/dark/shadow.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "x": "0",
+          "y": "8",
+          "blur": "16",
+          "spread": "0",
+          "color": "hsla($core.grey, 0%, 0.14)",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "fly"
+      },
+      "path": [
+        "neutral",
+        "fly"
+      ]
+    },
+    "window": {
+      "value": [
+        {
+          "x": "0",
+          "y": "2",
+          "blur": "21",
+          "spread": "0",
+          "color": "hsla($core.grey, 0%, 0.38)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "32",
+          "blur": "64",
+          "spread": "0",
+          "color": "hsla($core.grey, 0%, 0.38)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "filePath": "input/dark/shadow.json",
+      "isSource": true,
+      "original": {
+        "value": [
+          {
+            "x": "0",
+            "y": "2",
+            "blur": "21",
+            "spread": "0",
+            "color": "hsla($core.grey, 0%, 0.38)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "32",
+            "blur": "64",
+            "spread": "0",
+            "color": "hsla($core.grey, 0%, 0.38)",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "attributes": {
+        "category": "neutral",
+        "type": "window"
+      },
+      "path": [
+        "neutral",
+        "window"
+      ]
+    }
+  },
+  "onyx": {
+    "text": {
+      "value": "hsla($core.grey, 88%, 1)",
+      "type": "color",
+      "filePath": "input/dark/onyx.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 88%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "onyx",
+        "type": "text"
+      },
+      "path": [
+        "onyx",
+        "text"
+      ]
+    },
+    "text-medium": {
+      "value": "hsla($core.grey, 56%, 1)",
+      "type": "color",
+      "filePath": "input/dark/onyx.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 56%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "onyx",
+        "type": "text-medium"
+      },
+      "path": [
+        "onyx",
+        "text-medium"
+      ]
+    },
+    "text-disabled": {
+      "value": "hsla($core.grey, 44%, 1)",
+      "type": "color",
+      "filePath": "input/dark/onyx.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 44%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "onyx",
+        "type": "text-disabled"
+      },
+      "path": [
+        "onyx",
+        "text-disabled"
+      ]
+    },
+    "text-onColor": {
+      "value": "hsla($core.grey, 96%, 1)",
+      "type": "color",
+      "filePath": "input/dark/onyx.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 96%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "onyx",
+        "type": "text-onColor"
+      },
+      "path": [
+        "onyx",
+        "text-onColor"
+      ]
+    },
+    "bg": {
+      "value": "hsla($core.grey, 0%, 1)",
+      "type": "color",
+      "filePath": "input/dark/onyx.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 0%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "onyx",
+        "type": "bg"
+      },
+      "path": [
+        "onyx",
+        "bg"
+      ]
+    },
+    "bg-hover": {
+      "value": "hsla($core.grey, 8%, 1)",
+      "type": "color",
+      "filePath": "input/dark/onyx.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 8%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "onyx",
+        "type": "bg-hover"
+      },
+      "path": [
+        "onyx",
+        "bg-hover"
+      ]
+    },
+    "bg-focus": {
+      "value": "hsla($core.grey, 16%, 1)",
+      "type": "color",
+      "filePath": "input/dark/onyx.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 16%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "onyx",
+        "type": "bg-focus"
+      },
+      "path": [
+        "onyx",
+        "bg-focus"
+      ]
+    },
+    "fg": {
+      "value": "hsla($core.grey, 12%, 1)",
+      "type": "color",
+      "filePath": "input/dark/onyx.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 12%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "onyx",
+        "type": "fg"
+      },
+      "path": [
+        "onyx",
+        "fg"
+      ]
+    },
+    "fg-hover": {
+      "value": "hsla($core.grey, 20%, 1)",
+      "type": "color",
+      "filePath": "input/dark/onyx.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 20%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "onyx",
+        "type": "fg-hover"
+      },
+      "path": [
+        "onyx",
+        "fg-hover"
+      ]
+    },
+    "fg-focus": {
+      "value": "hsla($core.grey, 24%, 1)",
+      "type": "color",
+      "filePath": "input/dark/onyx.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 24%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "onyx",
+        "type": "fg-focus"
+      },
+      "path": [
+        "onyx",
+        "fg-focus"
+      ]
+    },
+    "mute": {
+      "value": "hsla($core.grey, 20%, 1)",
+      "type": "color",
+      "filePath": "input/dark/onyx.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 20%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "onyx",
+        "type": "mute"
+      },
+      "path": [
+        "onyx",
+        "mute"
+      ]
+    },
+    "mute-hover": {
+      "value": "hsla($core.grey, 24%, 1)",
+      "type": "color",
+      "filePath": "input/dark/onyx.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 24%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "onyx",
+        "type": "mute-hover"
+      },
+      "path": [
+        "onyx",
+        "mute-hover"
+      ]
+    },
+    "mute-focus": {
+      "value": "hsla($core.grey, 28%, 1)",
+      "type": "color",
+      "filePath": "input/dark/onyx.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 28%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "onyx",
+        "type": "mute-focus"
+      },
+      "path": [
+        "onyx",
+        "mute-focus"
+      ]
+    },
+    "border": {
+      "value": "hsla($core.grey, 12%, 1)",
+      "type": "color",
+      "filePath": "input/dark/onyx.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 12%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "onyx",
+        "type": "border"
+      },
+      "path": [
+        "onyx",
+        "border"
+      ]
+    },
+    "border-elevation": {
+      "value": "linear-gradient(180deg, hsla($core.grey, 12%, 0) 90%, hsla($core.grey, 12%, 1) 100%)",
+      "type": "color",
+      "filePath": "input/dark/onyx.json",
+      "isSource": true,
+      "original": {
+        "value": "linear-gradient(180deg, hsla($core.grey, 12%, 0) 90%, hsla($core.grey, 12%, 1) 100%)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "onyx",
+        "type": "border-elevation"
+      },
+      "path": [
+        "onyx",
+        "border-elevation"
+      ]
+    },
+    "icon": {
+      "value": "hsla($core.grey, 96%, 1)",
+      "type": "color",
+      "filePath": "input/dark/onyx.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 96%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "onyx",
+        "type": "icon"
+      },
+      "path": [
+        "onyx",
+        "icon"
+      ]
+    },
+    "icon-hover": {
+      "value": "hsla($core.grey, 88%, 1)",
+      "type": "color",
+      "filePath": "input/dark/onyx.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 88%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "onyx",
+        "type": "icon-hover"
+      },
+      "path": [
+        "onyx",
+        "icon-hover"
+      ]
+    },
+    "icon-onColor": {
+      "value": "hsla($core.grey, 96%, 1)",
+      "type": "color",
+      "filePath": "input/dark/onyx.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 96%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "onyx",
+        "type": "icon-onColor"
+      },
+      "path": [
+        "onyx",
+        "icon-onColor"
+      ]
+    },
+    "icon-onColor-hover": {
+      "value": "hsla($core.grey, 88%, 1)",
+      "type": "color",
+      "filePath": "input/dark/onyx.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 88%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "onyx",
+        "type": "icon-onColor-hover"
+      },
+      "path": [
+        "onyx",
+        "icon-onColor-hover"
+      ]
+    },
+    "disabled": {
+      "value": "hsla($core.grey, 32%, 1)",
+      "type": "color",
+      "filePath": "input/dark/onyx.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 32%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "onyx",
+        "type": "disabled"
+      },
+      "path": [
+        "onyx",
+        "disabled"
+      ]
+    }
+  },
+  "skeleton": {
+    "element": {
+      "value": "hsla($core.grey, 32%, 1)",
+      "type": "color",
+      "filePath": "input/dark/skeleton.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 32%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "skeleton",
+        "type": "element"
+      },
+      "path": [
+        "skeleton",
+        "element"
+      ]
+    },
+    "bg": {
+      "value": "hsla($core.grey, 20%, 1)",
+      "type": "color",
+      "filePath": "input/dark/skeleton.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 20%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "skeleton",
+        "type": "bg"
+      },
+      "path": [
+        "skeleton",
+        "bg"
+      ]
+    },
+    "overlay": {
+      "value": "hsla($core.grey, 10, 0.7)",
+      "type": "color",
+      "filePath": "input/dark/skeleton.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.grey, 10, 0.7)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "skeleton",
+        "type": "overlay"
+      },
+      "path": [
+        "skeleton",
+        "overlay"
+      ]
+    }
+  },
+  "success": {
+    "text": {
+      "value": "hsla($core.green, 40%, 1)",
+      "type": "color",
+      "filePath": "input/dark/success.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.green, 40%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "success",
+        "type": "text"
+      },
+      "path": [
+        "success",
+        "text"
+      ]
+    },
+    "text-medium": {
+      "value": "$lock.text-medium",
+      "type": "color",
+      "filePath": "input/dark/success.json",
+      "isSource": true,
+      "original": {
+        "value": "$lock.text-medium",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "success",
+        "type": "text-medium"
+      },
+      "path": [
+        "success",
+        "text-medium"
+      ]
+    },
+    "text-disabled": {
+      "value": "$lock.text-disabled",
+      "type": "color",
+      "filePath": "input/dark/success.json",
+      "isSource": true,
+      "original": {
+        "value": "$lock.text-disabled",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "success",
+        "type": "text-disabled"
+      },
+      "path": [
+        "success",
+        "text-disabled"
+      ]
+    },
+    "text-onColor": {
+      "value": "hsla($core.green, 88%, 1)",
+      "type": "color",
+      "filePath": "input/dark/success.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.green, 88%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "success",
+        "type": "text-onColor"
+      },
+      "path": [
+        "success",
+        "text-onColor"
+      ]
+    },
+    "bg": {
+      "value": "hsla($core.green, 40%, 1)",
+      "type": "color",
+      "filePath": "input/dark/success.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.green, 40%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "success",
+        "type": "bg"
+      },
+      "path": [
+        "success",
+        "bg"
+      ]
+    },
+    "bg-hover": {
+      "value": "hsla($core.green, 44%, 1)",
+      "type": "color",
+      "filePath": "input/dark/success.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.green, 44%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "success",
+        "type": "bg-hover"
+      },
+      "path": [
+        "success",
+        "bg-hover"
+      ]
+    },
+    "bg-focus": {
+      "value": "hsla($core.green, 48%, 1)",
+      "type": "color",
+      "filePath": "input/dark/success.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.green, 48%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "success",
+        "type": "bg-focus"
+      },
+      "path": [
+        "success",
+        "bg-focus"
+      ]
+    },
+    "mute": {
+      "value": "hsla($core.green, 84%, 1)",
+      "type": "color",
+      "filePath": "input/dark/success.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.green, 84%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "success",
+        "type": "mute"
+      },
+      "path": [
+        "success",
+        "mute"
+      ]
+    },
+    "mute-hover": {
+      "value": "hsla($core.green, 80%, 1)",
+      "type": "color",
+      "filePath": "input/dark/success.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.green, 80%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "success",
+        "type": "mute-hover"
+      },
+      "path": [
+        "success",
+        "mute-hover"
+      ]
+    },
+    "mute-focus": {
+      "value": "hsla($core.green, 76%, 1)",
+      "type": "color",
+      "filePath": "input/dark/success.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.green, 76%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "success",
+        "type": "mute-focus"
+      },
+      "path": [
+        "success",
+        "mute-focus"
+      ]
+    },
+    "border": {
+      "value": "hsla($core.green, 30%, 1)",
+      "type": "color",
+      "filePath": "input/dark/success.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.green, 30%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "success",
+        "type": "border"
+      },
+      "path": [
+        "success",
+        "border"
+      ]
+    },
+    "border-elevation": {
+      "value": "linear-gradient(180deg, hsla($core.green, 30%, 0) 90%, hsla($core.green, 30%, 1) 100%)",
+      "type": "color",
+      "filePath": "input/dark/success.json",
+      "isSource": true,
+      "original": {
+        "value": "linear-gradient(180deg, hsla($core.green, 30%, 0) 90%, hsla($core.green, 30%, 1) 100%)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "success",
+        "type": "border-elevation"
+      },
+      "path": [
+        "success",
+        "border-elevation"
+      ]
+    },
+    "icon": {
+      "value": "hsla($core.green, 40%, 1)",
+      "type": "color",
+      "filePath": "input/dark/success.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.green, 40%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "success",
+        "type": "icon"
+      },
+      "path": [
+        "success",
+        "icon"
+      ]
+    },
+    "icon-hover": {
+      "value": "hsla($core.green, 44%, 1)",
+      "type": "color",
+      "filePath": "input/dark/success.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.green, 44%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "success",
+        "type": "icon-hover"
+      },
+      "path": [
+        "success",
+        "icon-hover"
+      ]
+    },
+    "icon-onColor": {
+      "value": "hsla($core.green, 88%, 1)",
+      "type": "color",
+      "filePath": "input/dark/success.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.green, 88%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "success",
+        "type": "icon-onColor"
+      },
+      "path": [
+        "success",
+        "icon-onColor"
+      ]
+    },
+    "icon-onColor-hover": {
+      "value": "hsla($core.green, 84%, 1)",
+      "type": "color",
+      "filePath": "input/dark/success.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.green, 84%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "success",
+        "type": "icon-onColor-hover"
+      },
+      "path": [
+        "success",
+        "icon-onColor-hover"
+      ]
+    },
+    "disabled": {
+      "value": "$lock.disabled",
+      "type": "color",
+      "filePath": "input/dark/success.json",
+      "isSource": true,
+      "original": {
+        "value": "$lock.disabled",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "success",
+        "type": "disabled"
+      },
+      "path": [
+        "success",
+        "disabled"
+      ]
+    }
+  },
+  "warning": {
+    "text": {
+      "value": "hsla($core.orange, 40%, 1)",
+      "type": "color",
+      "filePath": "input/dark/warning.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.orange, 40%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "warning",
+        "type": "text"
+      },
+      "path": [
+        "warning",
+        "text"
+      ]
+    },
+    "text-medium": {
+      "value": "$lock.text-medium",
+      "type": "color",
+      "filePath": "input/dark/warning.json",
+      "isSource": true,
+      "original": {
+        "value": "$lock.text-medium",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "warning",
+        "type": "text-medium"
+      },
+      "path": [
+        "warning",
+        "text-medium"
+      ]
+    },
+    "text-disabled": {
+      "value": "$lock.text-disabled",
+      "type": "color",
+      "filePath": "input/dark/warning.json",
+      "isSource": true,
+      "original": {
+        "value": "$lock.text-disabled",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "warning",
+        "type": "text-disabled"
+      },
+      "path": [
+        "warning",
+        "text-disabled"
+      ]
+    },
+    "text-onColor": {
+      "value": "hsla($core.orange, 88%, 1)",
+      "type": "color",
+      "filePath": "input/dark/warning.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.orange, 88%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "warning",
+        "type": "text-onColor"
+      },
+      "path": [
+        "warning",
+        "text-onColor"
+      ]
+    },
+    "bg": {
+      "value": "hsla($core.orange, 40%, 1)",
+      "type": "color",
+      "filePath": "input/dark/warning.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.orange, 40%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "warning",
+        "type": "bg"
+      },
+      "path": [
+        "warning",
+        "bg"
+      ]
+    },
+    "bg-hover": {
+      "value": "hsla($core.orange, 44%, 1)",
+      "type": "color",
+      "filePath": "input/dark/warning.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.orange, 44%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "warning",
+        "type": "bg-hover"
+      },
+      "path": [
+        "warning",
+        "bg-hover"
+      ]
+    },
+    "bg-focus": {
+      "value": "hsla($core.orange, 48%, 1)",
+      "type": "color",
+      "filePath": "input/dark/warning.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.orange, 48%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "warning",
+        "type": "bg-focus"
+      },
+      "path": [
+        "warning",
+        "bg-focus"
+      ]
+    },
+    "mute": {
+      "value": "hsla($core.orange, 84%, 1)",
+      "type": "color",
+      "filePath": "input/dark/warning.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.orange, 84%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "warning",
+        "type": "mute"
+      },
+      "path": [
+        "warning",
+        "mute"
+      ]
+    },
+    "mute-hover": {
+      "value": "hsla($core.orange, 80%, 1)",
+      "type": "color",
+      "filePath": "input/dark/warning.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.orange, 80%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "warning",
+        "type": "mute-hover"
+      },
+      "path": [
+        "warning",
+        "mute-hover"
+      ]
+    },
+    "mute-focus": {
+      "value": "hsla($core.orange, 76%, 1)",
+      "type": "color",
+      "filePath": "input/dark/warning.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.orange, 76%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "warning",
+        "type": "mute-focus"
+      },
+      "path": [
+        "warning",
+        "mute-focus"
+      ]
+    },
+    "border": {
+      "value": "hsla($core.orange, 30%, 1)",
+      "type": "color",
+      "filePath": "input/dark/warning.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.orange, 30%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "warning",
+        "type": "border"
+      },
+      "path": [
+        "warning",
+        "border"
+      ]
+    },
+    "border-elevation": {
+      "value": "linear-gradient(180deg, hsla($core.orange, 30%, 0) 90%, hsla($core.orange, 30%, 1) 100%)",
+      "type": "color",
+      "filePath": "input/dark/warning.json",
+      "isSource": true,
+      "original": {
+        "value": "linear-gradient(180deg, hsla($core.orange, 30%, 0) 90%, hsla($core.orange, 30%, 1) 100%)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "warning",
+        "type": "border-elevation"
+      },
+      "path": [
+        "warning",
+        "border-elevation"
+      ]
+    },
+    "icon": {
+      "value": "hsla($core.orange, 40%, 1)",
+      "type": "color",
+      "filePath": "input/dark/warning.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.orange, 40%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "warning",
+        "type": "icon"
+      },
+      "path": [
+        "warning",
+        "icon"
+      ]
+    },
+    "icon-hover": {
+      "value": "hsla($core.orange, 44%, 1)",
+      "type": "color",
+      "filePath": "input/dark/warning.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.orange, 44%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "warning",
+        "type": "icon-hover"
+      },
+      "path": [
+        "warning",
+        "icon-hover"
+      ]
+    },
+    "icon-onColor": {
+      "value": "hsla($core.orange, 88%, 1)",
+      "type": "color",
+      "filePath": "input/dark/warning.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.orange, 88%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "warning",
+        "type": "icon-onColor"
+      },
+      "path": [
+        "warning",
+        "icon-onColor"
+      ]
+    },
+    "icon-onColor-hover": {
+      "value": "hsla($core.orange, 84%, 1)",
+      "type": "color",
+      "filePath": "input/dark/warning.json",
+      "isSource": true,
+      "original": {
+        "value": "hsla($core.orange, 84%, 1)",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "warning",
+        "type": "icon-onColor-hover"
+      },
+      "path": [
+        "warning",
+        "icon-onColor-hover"
+      ]
+    },
+    "disabled": {
+      "value": "$lock.disabled",
+      "type": "color",
+      "filePath": "input/dark/warning.json",
+      "isSource": true,
+      "original": {
+        "value": "$lock.disabled",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "warning",
+        "type": "disabled"
+      },
+      "path": [
+        "warning",
+        "disabled"
+      ]
+    }
+  }
+}

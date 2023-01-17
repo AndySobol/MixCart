@@ -1,0 +1,33 @@
+{
+	"accent": {
+		"text": { "value": "hsla($core.pink, 50%, 1)", "type": "color" },
+		"text-medium": { "value": "$lock.text-medium", "type": "color" },
+		"text-disabled": { "value": "$lock.text-disabled", "type": "color" },
+		"text-onColor": { "value": "hsla($core.pink, 96%, 1)", "type": "color" },
+
+		"bg": { "value": "hsla($core.pink, 50%, 1)", "type": "color" },
+		"bg-hover": { "value": "hsla($core.pink, 46%, 1)", "type": "color" },
+		"bg-focus": { "value": "hsla($core.pink, 42%, 1)", "type": "color" },
+
+		"mute": { "value": "hsla($core.pink, 94%, 1)", "type": "color" },
+		"mute-hover": { "value": "hsla($core.pink, 88%, 1)", "type": "color" },
+		"mute-focus": { "value": "hsla($core.pink, 82%, 1)", "type": "color" },
+
+		"border": { "value": "hsla($core.pink, 40%, 1)", "type": "color" },
+		"border-elevation": {
+			"value": "linear-gradient(180deg, hsla($core.pink, 40%, 0%) 90%, hsla($core.pink, 40%, 1) 100%)",
+			"type": "color"
+		},
+
+		"icon": { "value": "hsla($core.pink, 50%, 1)", "type": "color" },
+		"icon-hover": { "value": "hsla($core.pink, 46%, 1)", "type": "color" },
+
+		"icon-onColor": { "value": "hsla($core.pink, 96%, 1)", "type": "color" },
+		"icon-onColor-hover": {
+			"value": "hsla($core.pink, 92%, 1)",
+			"type": "color"
+		},
+
+		"disabled": { "value": "$lock.disabled", "type": "color" }
+	}
+}

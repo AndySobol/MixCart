@@ -1,0 +1,33 @@
+{
+  "name": "thegamesdeck_ui",
+  "version": "1.0.0",
+  "description": "tokensStyle",
+  "main": "index.js",
+  "scripts": {
+    "light": "style-dictionary build --config configs/light.js",
+    "dark": "style-dictionary build --config configs/dark.js",
+    "global": "style-dictionary build --config configs/global.js",
+    "typographyPr": "style-dictionary build --config configs/typographyProduct.js",
+    "figmaBuild": "npm run light && npm run dark && npm run global && npm run typographyPr",
+    "cssLive": "node-sass -watch style.scss -o testing/main.css",
+    "css": "node-sass ./web/dev/scss -o ./web/dev/",
+    "sd": "style-dictionary build --config configs/scss.js",
+    "sd-prod": "style-dictionary build --config web/prod/genscss.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/CiprosoftDMCC/thegamesdeck_ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/CiprosoftDMCC/thegamesdeck_ui/issues"
+  },
+  "homepage": "https://gitlab.com/CiprosoftDMCC/thegamesdeck_ui#readme",
+  "dependencies": {
+    "@divriots/style-dictionary-to-figma": "^0.4.0",
+    "chroma-js": "^2.4.2",
+    "style-dictionary": "^3.7.1",
+    "token-transformer": "^0.0.28"
+  }
+}

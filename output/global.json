@@ -1,0 +1,764 @@
+{
+  "borderRadius": {
+    "none": {
+      "value": "0",
+      "type": "borderRadius",
+      "filePath": "input/global/borderRadius.json",
+      "isSource": true,
+      "original": {
+        "value": "0",
+        "type": "borderRadius"
+      },
+      "attributes": {
+        "category": "borderRadius",
+        "type": "none"
+      },
+      "path": [
+        "borderRadius",
+        "none"
+      ]
+    },
+    "base": {
+      "value": "2",
+      "type": "borderRadius",
+      "filePath": "input/global/borderRadius.json",
+      "isSource": true,
+      "original": {
+        "value": "2",
+        "type": "borderRadius"
+      },
+      "attributes": {
+        "category": "borderRadius",
+        "type": "base"
+      },
+      "path": [
+        "borderRadius",
+        "base"
+      ]
+    },
+    "scale": {
+      "value": "2",
+      "type": "borderRadius",
+      "filePath": "input/global/borderRadius.json",
+      "isSource": true,
+      "original": {
+        "value": "2",
+        "type": "borderRadius"
+      },
+      "attributes": {
+        "category": "borderRadius",
+        "type": "scale"
+      },
+      "path": [
+        "borderRadius",
+        "scale"
+      ]
+    },
+    "x05": {
+      "value": "$borderRadius.base / $borderRadius.scale",
+      "type": "borderRadius",
+      "filePath": "input/global/borderRadius.json",
+      "isSource": true,
+      "original": {
+        "value": "$borderRadius.base / $borderRadius.scale",
+        "type": "borderRadius"
+      },
+      "attributes": {
+        "category": "borderRadius",
+        "type": "x05"
+      },
+      "path": [
+        "borderRadius",
+        "x05"
+      ]
+    },
+    "x1": {
+      "value": "$borderRadius.base",
+      "type": "borderRadius",
+      "description": "2",
+      "filePath": "input/global/borderRadius.json",
+      "isSource": true,
+      "original": {
+        "value": "$borderRadius.base",
+        "type": "borderRadius",
+        "description": "2"
+      },
+      "attributes": {
+        "category": "borderRadius",
+        "type": "x1"
+      },
+      "path": [
+        "borderRadius",
+        "x1"
+      ]
+    },
+    "x2": {
+      "value": "$borderRadius.base * $borderRadius.scale",
+      "type": "borderRadius",
+      "description": "4",
+      "filePath": "input/global/borderRadius.json",
+      "isSource": true,
+      "original": {
+        "value": "$borderRadius.base * $borderRadius.scale",
+        "type": "borderRadius",
+        "description": "4"
+      },
+      "attributes": {
+        "category": "borderRadius",
+        "type": "x2"
+      },
+      "path": [
+        "borderRadius",
+        "x2"
+      ]
+    },
+    "x3": {
+      "value": "$borderRadius.x2 * $borderRadius.scale",
+      "type": "borderRadius",
+      "description": "8",
+      "filePath": "input/global/borderRadius.json",
+      "isSource": true,
+      "original": {
+        "value": "$borderRadius.x2 * $borderRadius.scale",
+        "type": "borderRadius",
+        "description": "8"
+      },
+      "attributes": {
+        "category": "borderRadius",
+        "type": "x3"
+      },
+      "path": [
+        "borderRadius",
+        "x3"
+      ]
+    },
+    "x4": {
+      "value": "$borderRadius.x3 * $borderRadius.scale",
+      "type": "borderRadius",
+      "description": "16",
+      "filePath": "input/global/borderRadius.json",
+      "isSource": true,
+      "original": {
+        "value": "$borderRadius.x3 * $borderRadius.scale",
+        "type": "borderRadius",
+        "description": "16"
+      },
+      "attributes": {
+        "category": "borderRadius",
+        "type": "x4"
+      },
+      "path": [
+        "borderRadius",
+        "x4"
+      ]
+    },
+    "x5": {
+      "value": "$borderRadius.x4 * $borderRadius.scale",
+      "type": "borderRadius",
+      "description": "32",
+      "filePath": "input/global/borderRadius.json",
+      "isSource": true,
+      "original": {
+        "value": "$borderRadius.x4 * $borderRadius.scale",
+        "type": "borderRadius",
+        "description": "32"
+      },
+      "attributes": {
+        "category": "borderRadius",
+        "type": "x5"
+      },
+      "path": [
+        "borderRadius",
+        "x5"
+      ]
+    },
+    "x6": {
+      "value": "$borderRadius.x5 * $borderRadius.scale",
+      "type": "borderRadius",
+      "description": "64",
+      "filePath": "input/global/borderRadius.json",
+      "isSource": true,
+      "original": {
+        "value": "$borderRadius.x5 * $borderRadius.scale",
+        "type": "borderRadius",
+        "description": "64"
+      },
+      "attributes": {
+        "category": "borderRadius",
+        "type": "x6"
+      },
+      "path": [
+        "borderRadius",
+        "x6"
+      ]
+    },
+    "x7": {
+      "value": "$borderRadius.x6 * $borderRadius.scale",
+      "type": "borderRadius",
+      "descripion": "128",
+      "filePath": "input/global/borderRadius.json",
+      "isSource": true,
+      "original": {
+        "value": "$borderRadius.x6 * $borderRadius.scale",
+        "type": "borderRadius",
+        "descripion": "128"
+      },
+      "attributes": {
+        "category": "borderRadius",
+        "type": "x7"
+      },
+      "path": [
+        "borderRadius",
+        "x7"
+      ]
+    },
+    "x8": {
+      "value": "$borderRadius.x7 * $borderRadius.scale",
+      "type": "borderRadius",
+      "descripion": "256",
+      "filePath": "input/global/borderRadius.json",
+      "isSource": true,
+      "original": {
+        "value": "$borderRadius.x7 * $borderRadius.scale",
+        "type": "borderRadius",
+        "descripion": "256"
+      },
+      "attributes": {
+        "category": "borderRadius",
+        "type": "x8"
+      },
+      "path": [
+        "borderRadius",
+        "x8"
+      ]
+    },
+    "round": {
+      "value": "99999",
+      "type": "borderRadius",
+      "filePath": "input/global/borderRadius.json",
+      "isSource": true,
+      "original": {
+        "value": "99999",
+        "type": "borderRadius"
+      },
+      "attributes": {
+        "category": "borderRadius",
+        "type": "round"
+      },
+      "path": [
+        "borderRadius",
+        "round"
+      ]
+    }
+  },
+  "borderWidth": {
+    "none": {
+      "value": "0",
+      "type": "borderWidth",
+      "filePath": "input/global/borderWidth.json",
+      "isSource": true,
+      "original": {
+        "value": "0",
+        "type": "borderWidth"
+      },
+      "attributes": {
+        "category": "borderWidth",
+        "type": "none"
+      },
+      "path": [
+        "borderWidth",
+        "none"
+      ]
+    },
+    "weak": {
+      "value": "0.5",
+      "type": "borderWidth",
+      "filePath": "input/global/borderWidth.json",
+      "isSource": true,
+      "original": {
+        "value": "0.5",
+        "type": "borderWidth"
+      },
+      "attributes": {
+        "category": "borderWidth",
+        "type": "weak"
+      },
+      "path": [
+        "borderWidth",
+        "weak"
+      ]
+    },
+    "medium": {
+      "value": "1",
+      "type": "borderWidth",
+      "filePath": "input/global/borderWidth.json",
+      "isSource": true,
+      "original": {
+        "value": "1",
+        "type": "borderWidth"
+      },
+      "attributes": {
+        "category": "borderWidth",
+        "type": "medium"
+      },
+      "path": [
+        "borderWidth",
+        "medium"
+      ]
+    },
+    "strong": {
+      "value": "2",
+      "type": "borderWidth",
+      "filePath": "input/global/borderWidth.json",
+      "isSource": true,
+      "original": {
+        "value": "2",
+        "type": "borderWidth"
+      },
+      "attributes": {
+        "category": "borderWidth",
+        "type": "strong"
+      },
+      "path": [
+        "borderWidth",
+        "strong"
+      ]
+    }
+  },
+  "sizing": {
+    "icon": {
+      "core": {
+        "xs": {
+          "value": "8px",
+          "type": "sizing",
+          "filePath": "input/global/sizing.json",
+          "isSource": true,
+          "original": {
+            "value": "8px",
+            "type": "sizing"
+          },
+          "attributes": {
+            "category": "sizing",
+            "type": "icon",
+            "item": "core",
+            "subitem": "xs"
+          },
+          "path": [
+            "sizing",
+            "icon",
+            "core",
+            "xs"
+          ]
+        },
+        "sm": {
+          "value": "12px",
+          "type": "sizing",
+          "filePath": "input/global/sizing.json",
+          "isSource": true,
+          "original": {
+            "value": "12px",
+            "type": "sizing"
+          },
+          "attributes": {
+            "category": "sizing",
+            "type": "icon",
+            "item": "core",
+            "subitem": "sm"
+          },
+          "path": [
+            "sizing",
+            "icon",
+            "core",
+            "sm"
+          ]
+        },
+        "md": {
+          "value": "16px",
+          "type": "sizing",
+          "filePath": "input/global/sizing.json",
+          "isSource": true,
+          "original": {
+            "value": "16px",
+            "type": "sizing"
+          },
+          "attributes": {
+            "category": "sizing",
+            "type": "icon",
+            "item": "core",
+            "subitem": "md"
+          },
+          "path": [
+            "sizing",
+            "icon",
+            "core",
+            "md"
+          ]
+        },
+        "lg": {
+          "value": "20px",
+          "type": "sizing",
+          "filePath": "input/global/sizing.json",
+          "isSource": true,
+          "original": {
+            "value": "20px",
+            "type": "sizing"
+          },
+          "attributes": {
+            "category": "sizing",
+            "type": "icon",
+            "item": "core",
+            "subitem": "lg"
+          },
+          "path": [
+            "sizing",
+            "icon",
+            "core",
+            "lg"
+          ]
+        },
+        "xl": {
+          "value": "24px",
+          "type": "sizing",
+          "filePath": "input/global/sizing.json",
+          "isSource": true,
+          "original": {
+            "value": "24px",
+            "type": "sizing"
+          },
+          "attributes": {
+            "category": "sizing",
+            "type": "icon",
+            "item": "core",
+            "subitem": "xl"
+          },
+          "path": [
+            "sizing",
+            "icon",
+            "core",
+            "xl"
+          ]
+        },
+        "xll": {
+          "value": "32px",
+          "type": "sizing",
+          "filePath": "input/global/sizing.json",
+          "isSource": true,
+          "original": {
+            "value": "32px",
+            "type": "sizing"
+          },
+          "attributes": {
+            "category": "sizing",
+            "type": "icon",
+            "item": "core",
+            "subitem": "xll"
+          },
+          "path": [
+            "sizing",
+            "icon",
+            "core",
+            "xll"
+          ]
+        }
+      },
+      "actioicon": "$sizing.icon.core.md",
+      "button-icon": "$sizing.icon.core.md"
+    }
+  },
+  "spacing": {
+    "none": {
+      "value": "0",
+      "type": "spacing",
+      "filePath": "input/global/spacing.json",
+      "isSource": true,
+      "original": {
+        "value": "0",
+        "type": "spacing"
+      },
+      "attributes": {
+        "category": "spacing",
+        "type": "none"
+      },
+      "path": [
+        "spacing",
+        "none"
+      ]
+    },
+    "base": {
+      "value": "2",
+      "type": "spacing",
+      "filePath": "input/global/spacing.json",
+      "isSource": true,
+      "original": {
+        "value": "2",
+        "type": "spacing"
+      },
+      "attributes": {
+        "category": "spacing",
+        "type": "base"
+      },
+      "path": [
+        "spacing",
+        "base"
+      ]
+    },
+    "scale": {
+      "value": "2",
+      "type": "spacing",
+      "filePath": "input/global/spacing.json",
+      "isSource": true,
+      "original": {
+        "value": "2",
+        "type": "spacing"
+      },
+      "attributes": {
+        "category": "spacing",
+        "type": "scale"
+      },
+      "path": [
+        "spacing",
+        "scale"
+      ]
+    },
+    "x025": {
+      "value": "$spacing.base / $spacing.scale",
+      "type": "spacing",
+      "description": "2/2 = 1",
+      "filePath": "input/global/spacing.json",
+      "isSource": true,
+      "original": {
+        "value": "$spacing.base / $spacing.scale",
+        "type": "spacing",
+        "description": "2/2 = 1"
+      },
+      "attributes": {
+        "category": "spacing",
+        "type": "x025"
+      },
+      "path": [
+        "spacing",
+        "x025"
+      ]
+    },
+    "x05": {
+      "value": "$spacing.x025 + $spacing.scale",
+      "type": "spacing",
+      "description": "1+2 = 3",
+      "filePath": "input/global/spacing.json",
+      "isSource": true,
+      "original": {
+        "value": "$spacing.x025 + $spacing.scale",
+        "type": "spacing",
+        "description": "1+2 = 3"
+      },
+      "attributes": {
+        "category": "spacing",
+        "type": "x05"
+      },
+      "path": [
+        "spacing",
+        "x05"
+      ]
+    },
+    "x1": {
+      "value": "$spacing.base",
+      "type": "spacing",
+      "description": "2",
+      "filePath": "input/global/spacing.json",
+      "isSource": true,
+      "original": {
+        "value": "$spacing.base",
+        "type": "spacing",
+        "description": "2"
+      },
+      "attributes": {
+        "category": "spacing",
+        "type": "x1"
+      },
+      "path": [
+        "spacing",
+        "x1"
+      ]
+    },
+    "x2": {
+      "value": "$spacing.x1 * $spacing.scale",
+      "type": "spacing",
+      "description": "2*2 = 4",
+      "filePath": "input/global/spacing.json",
+      "isSource": true,
+      "original": {
+        "value": "$spacing.x1 * $spacing.scale",
+        "type": "spacing",
+        "description": "2*2 = 4"
+      },
+      "attributes": {
+        "category": "spacing",
+        "type": "x2"
+      },
+      "path": [
+        "spacing",
+        "x2"
+      ]
+    },
+    "x3": {
+      "value": "$spacing.x05 * $spacing.scale",
+      "type": "spacing",
+      "description": "3*2 = 6",
+      "filePath": "input/global/spacing.json",
+      "isSource": true,
+      "original": {
+        "value": "$spacing.x05 * $spacing.scale",
+        "type": "spacing",
+        "description": "3*2 = 6"
+      },
+      "attributes": {
+        "category": "spacing",
+        "type": "x3"
+      },
+      "path": [
+        "spacing",
+        "x3"
+      ]
+    },
+    "x4": {
+      "value": "$spacing.x2 * $spacing.scale",
+      "type": "spacing",
+      "description": "4*2 = 8",
+      "filePath": "input/global/spacing.json",
+      "isSource": true,
+      "original": {
+        "value": "$spacing.x2 * $spacing.scale",
+        "type": "spacing",
+        "description": "4*2 = 8"
+      },
+      "attributes": {
+        "category": "spacing",
+        "type": "x4"
+      },
+      "path": [
+        "spacing",
+        "x4"
+      ]
+    },
+    "x5": {
+      "value": "$spacing.x3 * $spacing.scale",
+      "type": "spacing",
+      "description": "6*2 = 12",
+      "filePath": "input/global/spacing.json",
+      "isSource": true,
+      "original": {
+        "value": "$spacing.x3 * $spacing.scale",
+        "type": "spacing",
+        "description": "6*2 = 12"
+      },
+      "attributes": {
+        "category": "spacing",
+        "type": "x5"
+      },
+      "path": [
+        "spacing",
+        "x5"
+      ]
+    },
+    "x6": {
+      "value": "$spacing.x4 * $spacing.scale",
+      "type": "spacing",
+      "description": "8*2 = 16",
+      "filePath": "input/global/spacing.json",
+      "isSource": true,
+      "original": {
+        "value": "$spacing.x4 * $spacing.scale",
+        "type": "spacing",
+        "description": "8*2 = 16"
+      },
+      "attributes": {
+        "category": "spacing",
+        "type": "x6"
+      },
+      "path": [
+        "spacing",
+        "x6"
+      ]
+    },
+    "x7": {
+      "value": "$spacing.x5 * $spacing.scale",
+      "type": "spacing",
+      "description": "12*2 = 24",
+      "filePath": "input/global/spacing.json",
+      "isSource": true,
+      "original": {
+        "value": "$spacing.x5 * $spacing.scale",
+        "type": "spacing",
+        "description": "12*2 = 24"
+      },
+      "attributes": {
+        "category": "spacing",
+        "type": "x7"
+      },
+      "path": [
+        "spacing",
+        "x7"
+      ]
+    },
+    "x8": {
+      "value": "$spacing.x6 * $spacing.scale",
+      "type": "spacing",
+      "description": "16*2 = 32",
+      "filePath": "input/global/spacing.json",
+      "isSource": true,
+      "original": {
+        "value": "$spacing.x6 * $spacing.scale",
+        "type": "spacing",
+        "description": "16*2 = 32"
+      },
+      "attributes": {
+        "category": "spacing",
+        "type": "x8"
+      },
+      "path": [
+        "spacing",
+        "x8"
+      ]
+    },
+    "x9": {
+      "value": "$spacing.x7 * $spacing.scale",
+      "type": "spacing",
+      "description": "24*2 = 48",
+      "filePath": "input/global/spacing.json",
+      "isSource": true,
+      "original": {
+        "value": "$spacing.x7 * $spacing.scale",
+        "type": "spacing",
+        "description": "24*2 = 48"
+      },
+      "attributes": {
+        "category": "spacing",
+        "type": "x9"
+      },
+      "path": [
+        "spacing",
+        "x9"
+      ]
+    },
+    "x10": {
+      "value": "$spacing.x8 * $spacing.scale",
+      "type": "spacing",
+      "description": "32*2 = 64",
+      "filePath": "input/global/spacing.json",
+      "isSource": true,
+      "original": {
+        "value": "$spacing.x8 * $spacing.scale",
+        "type": "spacing",
+        "description": "32*2 = 64"
+      },
+      "attributes": {
+        "category": "spacing",
+        "type": "x10"
+      },
+      "path": [
+        "spacing",
+        "x10"
+      ]
+    }
+  }
+}

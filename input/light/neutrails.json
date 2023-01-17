@@ -1,0 +1,37 @@
+{
+	"neutral": {
+		"text": { "value": "hsla($core.grey, 12%, 1)", "type": "color" },
+		"text-medium": { "value": "$lock.text-medium", "type": "color" },
+		"text-disabled": { "value": "$lock.text-disabled", "type": "color" },
+		"text-onColor": { "value": "hsla($core.grey, 96%, 1)", "type": "color" },
+
+		"bg": { "value": "hsla($core.grey, 97%, 1)", "type": "color" },
+		"bg-hover": { "value": "hsla($core.grey, 93%, 1)", "type": "color" },
+		"bg-focus": { "value": "hsla($core.grey, 89%, 1)", "type": "color" },
+
+		"fg": { "value": "hsla($core.grey, 100%, 1)", "type": "color" },
+		"fg-hover": { "value": "hsla($core.grey, 96%, 1)", "type": "color" },
+		"fg-focus": { "value": "hsla($core.grey, 92%, 1)", "type": "color" },
+
+		"mute": { "value": "hsla($core.grey, 94%, 1)", "type": "color" },
+		"mute-hover": { "value": "hsla($core.grey, 90%, 1)", "type": "color" },
+		"mute-focus": { "value": "hsla($core.grey, 86%, 1)", "type": "color" },
+
+		"border": { "value": "hsla($core.grey, 88%, 1)", "type": "color" },
+		"border-elevation": {
+			"value": "linear-gradient(180deg, hsla($core.grey, 100%, 0%) 90%, hsla($core.grey, 88%, 1) 100%)",
+			"type": "color"
+		},
+
+		"icon": { "value": "hsla($core.grey, 12%, 1)", "type": "color" },
+		"icon-hover": { "value": "hsla($core.grey, 24%, 1)", "type": "color" },
+
+		"icon-onColor": { "value": "hsla($core.grey, 96%, 1)", "type": "color" },
+		"icon-onColor-hover": {
+			"value": "hsla($core.grey, 88%, 1)",
+			"type": "color"
+		},
+
+		"disabled": { "value": "$lock.disabled", "type": "color" }
+	}
+}

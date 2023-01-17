@@ -1,0 +1,8 @@
+{
+	"lock": {
+		"text": { "value": "hsla($core.grey, 12%, 1)" },
+		"text-medium": { "value": "hsla($core.grey, 56%, 1)" },
+		"text-disabled": { "value": "hsla($core.grey, 12%, 1)" },
+		"disabled": { "value": "hsla($core.grey, 88%, 1)" }
+	}
+}

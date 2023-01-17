@@ -1,0 +1,23 @@
+{
+	"borderWidth": {
+		"none": {
+			"value": "0",
+			"type": "borderWidth"
+		},
+
+		"weak": {
+			"value": "0.5",
+			"type": "borderWidth"
+		},
+
+		"medium": {
+			"value": "1",
+			"type": "borderWidth"
+		},
+
+		"strong": {
+			"value": "2",
+			"type": "borderWidth"
+		}
+	}
+}

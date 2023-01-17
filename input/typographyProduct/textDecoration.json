@@ -1,0 +1,18 @@
+{
+	"textDecoration": {
+		"none": {
+			"value": "none",
+			"type": "textDecoration"
+		},
+
+		"underline": {
+			"value": "underline",
+			"type": "textDecoration"
+		},
+
+		"strikethrough": {
+			"value": "line-through",
+			"type": "textDecoration"
+		}
+	}
+}

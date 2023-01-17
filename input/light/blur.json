@@ -1,0 +1,30 @@
+{
+	"blur": {
+		"weak": {
+			"value": {
+				"blur": "20",
+				"color": "hsla($core.grey, 100%, 0.78)",
+				"type": "blur"
+			},
+			"type": "other"
+		},
+
+		"medium": {
+			"value": {
+				"blur": "54",
+				"color": "hsla($core.grey, 100%, 0.78)",
+				"type": "blur"
+			},
+			"type": "other"
+		},
+
+		"strong": {
+			"value": {
+				"blur": "124",
+				"color": "hsla($core.grey, 100%, 0.78)",
+				"type": "blur"
+			},
+			"type": "other"
+		}
+	}
+}

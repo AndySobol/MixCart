@@ -1,0 +1,74 @@
+{
+	"borderRadius": {
+		"none": {
+			"value": "0",
+			"type": "borderRadius"
+		},
+		"base": {
+			"value": "2",
+			"type": "borderRadius"
+		},
+		"scale": {
+			"value": "2",
+			"type": "borderRadius"
+		},
+
+		"x05": {
+			"value": "$borderRadius.base / $borderRadius.scale",
+			"type": "borderRadius"
+		},
+
+		"x1": {
+			"value": "$borderRadius.base",
+			"type": "borderRadius",
+			"description": "2"
+		},
+
+		"x2": {
+			"value": "$borderRadius.base * $borderRadius.scale",
+			"type": "borderRadius",
+			"description": "4"
+		},
+
+		"x3": {
+			"value": "$borderRadius.x2 * $borderRadius.scale",
+			"type": "borderRadius",
+			"description": "8"
+		},
+
+		"x4": {
+			"value": "$borderRadius.x3 * $borderRadius.scale",
+			"type": "borderRadius",
+			"description": "16"
+		},
+
+		"x5": {
+			"value": "$borderRadius.x4 * $borderRadius.scale",
+			"type": "borderRadius",
+			"description": "32"
+		},
+
+		"x6": {
+			"value": "$borderRadius.x5 * $borderRadius.scale",
+			"type": "borderRadius",
+			"description": "64"
+		},
+
+		"x7": {
+			"value": "$borderRadius.x6 * $borderRadius.scale",
+			"type": "borderRadius",
+			"descripion": "128"
+		},
+
+		"x8": {
+			"value": "$borderRadius.x7 * $borderRadius.scale",
+			"type": "borderRadius",
+			"descripion": "256"
+		},
+
+		"round": {
+			"value": "99999",
+			"type": "borderRadius"
+		}
+	}
+}

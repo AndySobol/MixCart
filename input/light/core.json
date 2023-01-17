@@ -1,0 +1,10 @@
+{
+	"core": {
+		"grey": { "value": "0, 0%", "type": "other" },
+		"green": { "value": "156, 44%", "type": "other" },
+		"orange": { "value": "30, 100%", "type": "other" },
+		"red": { "value": "0, 76%", "type": "other" },
+		"pink": { "value": "340, 85%", "type": "other" },
+		"yellow": { "value": "50, 100%", "type": "other" }
+	}
+}
